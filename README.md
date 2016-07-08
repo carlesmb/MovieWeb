@@ -46,5 +46,5 @@ based on the code leaarned in Udacity: nanodegree full-stack development
 
 ## Copyright and license
 
-Code and documentation copyright 2016 Docs released under [Creative Commons]
+Code and documentation copyright 2016 Docs released under [GNU Creative Commons]
 
